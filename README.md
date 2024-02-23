@@ -34,6 +34,10 @@
 ### [CRÓNICAS DE GUERRA](https://github.com/1945Tomas/BlogHistoria)
 Blog dedicado a la Segunda Guerra Mundial. Acompáñame en un viaje para comprender mejor los momentos que cambiaron el curso del mundo. 🌍.
 
+### [WW II (Tanques de la Segunda Guerra Mundial)](https://github.com/1945Tomas/BlogIIWW)
+Este sitio tiene como objetivo proporcionar información detallada sobre los tanques utilizados durante la Segunda Guerra Mundial. A través de contenido informativo, imágenes y elementos interactivos, los usuarios podrán explorar la historia y características técnicas de diferentes tanques utilizados por las potencias involucradas en el conflicto.
+
+
 ## Página Web 👨🏻‍💻
 ### [BOWL COMIDAS](https://bowlfrutillar.000webhostapp.com/)
 Pequeña pagina web realizada para cliente, utilizando Html, CSS , BOOTSTRAP Y SAS.
