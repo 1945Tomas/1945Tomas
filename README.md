@@ -11,7 +11,7 @@
 <p align="left">
 🎓 TÉCNICO ELECTROMECÁNICO
 
-💻 Iniciando en el Desarroollo Web camino a ser Frontend de forma autodidacta 🤓.
+💻 Iniciando en el Desarroollo Web camino a ser Backend.
 
 📝 roles en el ámbito: desarrollador... programador freelance... y en un futuro mucho más 😄
 
